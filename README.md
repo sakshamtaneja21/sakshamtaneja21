@@ -9,29 +9,17 @@ I'm Saksham Taneja, Student at 👨‍💻 at JECRC University Pursuing BCA.  I 
 - 🏄‍ Community guy who loves being involves in communites and help students grow
 - 😄 I usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
 - 🔭 I am currently a MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex - Google DSC Lead and been a part of many communites and programs by big force
-- 🌱 
+- 🌱 i love speak at public events and been a speaker at many events. I organise Worksops, Webinars etc to help student Community
+- 👯 And Many more...
 
-
+# Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
 - ⚡ Fun fact: I love meeting new people and eating food! 
-
-
+- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+---
 <!--
 **sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-
--  Pronouns: ...
-- 
-- 
-
 
 
 
