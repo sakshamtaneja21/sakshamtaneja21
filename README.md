@@ -5,7 +5,7 @@
 ## Hi 👋, 
 
 - 💬 Ask me about anything and everything! 
-- 📫 How to reach me: message me at [Whatsapp](wa.me/919829599750)
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
 - ⚡ Fun fact: I love meeting new people and eating food! 
 
 
