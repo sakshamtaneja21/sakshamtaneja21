@@ -12,7 +12,9 @@ I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA.  I am 
 - 🌱 I love to speak at public events and been a speaker at many events. I organise Workshops, Webinars etc to help student Community
 - 👯 And Many More...
 
-# Hello World!! 🤔
+
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
 - ⚡ Fun fact: I love meeting new people and eating food! 
@@ -21,6 +23,6 @@ I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA.  I am 
 <!--
 **sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+🤔
 
 -->
