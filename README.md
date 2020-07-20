@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/sakshamtaneja21?label=Follow&style=social)](https://github.com/sakshamtaneja/?tab=follow)
 ---
 ## Hi there 👋,           
-I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA.  I am a tech and management enthusiasts, Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later carrier.  
+I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA.  I am a tech and management enthusiast, Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later career.  
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
