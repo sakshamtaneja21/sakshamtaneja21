@@ -7,14 +7,11 @@
 
 ---
 
-
 ## Hi there 👋,
 
 ### I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA. I am a tech and management enthusiast, Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later career.
 -------
   
-
-
 ## 🧐 About
 
 - 🏄‍ Community guy who loves being involved in communities and help students grow
@@ -30,7 +27,6 @@
 - ⚡ Fun fact: I love meeting new people and eating food!
 - 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
 
----
 
 ![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
 
@@ -40,4 +36,3 @@
 🤔
 
 -->
-------
