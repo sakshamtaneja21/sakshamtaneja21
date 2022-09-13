@@ -8,7 +8,7 @@
 
 ## Hi there 👋,
 
-### I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA. I am a tech and management enthusiast, Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later career.
+### I'm Saksham Taneja, I am a community guy who loves tech and see myself as product enthoziast.
 -------
   
 ## 🧐 About
