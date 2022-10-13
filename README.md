@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
 ---
 
-## Hi there 👋,
+## Hi there 👋
 
 ### I'm Saksham Taneja, I am a community guy who loves tech and see myself as product enthoziast.
 -------
